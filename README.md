@@ -6,6 +6,10 @@ SereneMind is a responsive healthcare and wellness website designed to encourage
 
 https://anjalikushwaha2006.github.io/SereneMind/
 
+## 📸 Project Preview
+
+![SereneMind Homepage](images/Serenemind-Homepage.png)
+
 ## ✨ Features
 
 - Responsive navigation bar
