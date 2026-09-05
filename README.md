@@ -8,7 +8,7 @@ https://anjalikushwaha2006.github.io/SereneMind/
 
 ## 📸 Project Preview
 
-![SereneMind Homepage](images/Serenemind-Homepage.png)
+![SereneMind Homepage](images/sereneMind-homepage.png)
 
 ## ✨ Features
 
